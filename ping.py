@@ -6,6 +6,7 @@ import time
 
 os.system("pkg install cowsay")
 os.system("clear")
+os.system("pkg install dnsutils -y")
 os.system("pip install nslookup")
 os.system("cowsay -f ghostbusters STRİKE TOOL")
 print("""
